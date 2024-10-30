@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋 I'm Ruben
 
-<!--
-**rubjoh/rubjoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about machine learning, more spesifically deep learning and love exploring new ways to solve problems. Here, you'll find some of my latest projects and ideas!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 A Little About Me
+
+- **Learning:** Currently expanding my knowledge in the field of self-supervised learning 
+- **Working on:** Building projects in the medical domain
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rubjoh&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting! 😊
