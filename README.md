@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm passionate about machine learning, more spesif
 ---
 
 ### 🚀 A Little About Me 🚀
+I have over 5 years of experience as an Operations Engineer and 2 years as a Launch Coordinator within the telecommunications industry. 
+Currently, I am in the final year of my Master's degree in Applied Physics and Mathematics, specializing in Machine Learning.
 
 - **Learning:** Currently expanding my knowledge in the field of self-supervised learning 
 - **Working on:** Building projects in the medical domain
