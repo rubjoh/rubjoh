@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about machine learning, more spesif
 
 ---
 
-### 🌱 A Little About Me
+### 🚀 A Little About Me 🚀
 
 - **Learning:** Currently expanding my knowledge in the field of self-supervised learning 
 - **Working on:** Building projects in the medical domain
