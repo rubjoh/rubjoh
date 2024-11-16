@@ -15,7 +15,7 @@ Currently, I am in the final year of my Master's degree in Applied Physics and M
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rubjoh&show_icons=true&theme=radical)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=rubjoh&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=rubjoh&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
